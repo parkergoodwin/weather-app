@@ -9,14 +9,8 @@
     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/bmorelli25/simple-nodejs-weather-app.git"
+      "url": "git+https://github.com/parkergoodwin/weather-app.git"
     },
-    "author": "brandon morelli",
-    "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/bmorelli25/simple-nodejs-weather-app/issues"
-    },
-    "homepage": "https://github.com/bmorelli25/simple-nodejs-weather-app#readme",
     "dependencies": {
       "body-parser": "^1.17.2",
       "express": "^4.15.3",
